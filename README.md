@@ -31,8 +31,8 @@ what i learned:
 - Contrapositive is when, ¬q -> ¬p
 - Biconditional is when, p <-> q which means statement is true if and only if p and q have the same truth value.
 
-## week 2
-whatr I learned:
+## Week 2
+what I learned:
 - We learned some logical equivalences, namely:
   - Identity Laws
   - Domination Laws
@@ -51,7 +51,7 @@ whatr I learned:
 - Universal Quantifier, is true if "for All" possible value for x is true in p(x)
 - "Mathematical Statements" are Universal Quantifier.
 - Rules of Inference (Terms):
- - Argument - a sequence of statements with conclusion.
+ - Argument, is a sequence of statements with conclusion.
  - Valid
  - Fallacy means invalid
 - Rules of Inference Tautologies:
@@ -63,3 +63,34 @@ whatr I learned:
  - Simplification
  - Conjunction
  - Resolution
+ 
+## Week 3
+What I learned:
+- Methods of proof:
+ - Direct Proof
+ - Contraposition
+ - Vacuous&Trivial Proof
+ - Contradiction
+ - Equivalence
+
+- Direct
+ - 1ST: Assume p is true in p -> q
+ - 2ND: Show q is true using step 1.
+- Contraposition
+ - 1ST: Assume ¬q is true in ¬q -> ¬p
+ - 2ND: Show ¬p is true using step 1.
+- Vacuous Proof
+ - Show p is false, because p -> q must be true when p is false. 
+- Trivial Proof
+ - Show q is true, because p -> q must be true when q is true.
+- Contradiction
+ - 1ST: Assume NOT of the PREMISE.
+ - 2ND: Show steo 1 ends up in a contradiction.
+- Equivalence
+ - p <-> q = (p -> q) v (¬q -> ¬p)
+
+## Week 4
+What I learned:
+- Mathematical Induction
+ - 1ST: Substitution (BASIS)
+ - 2ND: Direct Proof (INDUCTIVE)
