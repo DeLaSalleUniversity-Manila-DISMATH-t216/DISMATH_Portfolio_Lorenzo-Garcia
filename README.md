@@ -12,3 +12,4 @@ Dismathportfolio-LorenzoGarcia created by Classrom for GitHub
 | ⊕ | Exclusive disjunction | xor |  p ⊕ q  ≡ (¬p ∧ q) v (p ∧ ¬q) | T iff exactly one of p and q is T, otherwise F|
 | → | Conditional | if, then | p → q ≡  ¬p v q | F if p is T and q is F, otherwise T |
 | ↔ | Biconditional | iff |  p ↔ q ≡ (p → q) ∧ (q → p) |  T iff p and q have the same truth values |
+-
