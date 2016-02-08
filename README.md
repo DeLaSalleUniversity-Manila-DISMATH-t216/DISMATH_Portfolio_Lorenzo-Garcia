@@ -1,9 +1,9 @@
 # DISMATH Portfolio - Lorenzo Garcia
 Dismathportfolio-LorenzoGarcia created by Classrom for GitHub
 ## Week 1
-- I was introduced to the course, DISMATH, which taackles about Discrete Mathematics.
-
-
+- I was introduced to the course, DISMATH, which means Discrete Mathematics.
+- 
+- I learned symbols like: 
 | Logical Symbol  |  Logical Operator | Shorthand | Logical Expression | Value |
 | :-----: |:-------:|:-----:| :-------: | :-------: |
 | ¬ |Negation | not | ¬p | opposite |
