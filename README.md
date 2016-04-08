@@ -94,3 +94,27 @@ What I learned:
 - Mathematical Induction
  - 1ST: Substitution (BASIS)
  - 2ND: Direct Proof (INDUCTIVE)
+- Recursively Defined Functions
+ - a proof technique used to prove results about a wide range of objects WHICH has two parts:
+  - A. Basic Step:
+   - Specify value of fucntion as zero (0).
+  - B. Recursive Step:
+   - Give a rule finding its value at an integer from values at its smaller integers.
+
+## Week 5
+What I learned:
+- Recursive Algorithm
+ - These are algorithms that continuosly reduce a problem to a same problem with smaller input.
+- Program Correctness
+ - Tought how to know if a program is correct by checking if it produces the correct output for every possible input.
+ - Program Verification is also used to prove correctness
+- Program Verification
+ - A. Partial Correctness
+  - Correct answer can be obtained if program terminates.
+ - *Hoarse Triple - notation that indicates that the program, S is partially correct with respect to the initial assertion p and the final assertion q.
+ - B. Show that the program terminates correctly
+- Power Series
+ - Can be solved using GEOMETRIC SERIES formula: a1/ 1-r
+ - example would be: Zeno's Paradox
+- Set
+ - 
