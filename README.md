@@ -111,10 +111,111 @@ What I learned:
 - Program Verification
  - A. Partial Correctness
   - Correct answer can be obtained if program terminates.
- - *Hoarse Triple - notation that indicates that the program, S is partially correct with respect to the initial assertion p and the final assertion q.
+ - *Hoarse Triple - notation that indicates that the program, S is partially correct with respect to the initial assertion P and the final assertion Q.
  - B. Show that the program terminates correctly
 - Power Series
  - Can be solved using GEOMETRIC SERIES formula: a1/ 1-r
  - example would be: Zeno's Paradox
 - Set
- - 
+ - An unordered collection of distinct objects, which may be anything.
+ - Empty Set 
+  - contains no elements adn is denoted by { } or ∅.
+ - Subset
+  - A set S is a subset of a set T (denotes S ⊆ T) if all elements of S are also elements of T.
+ - Power Set
+  - A set containing all subsets.
+- Cardinality
+ - Number of elements in a set.
+ 
+## Week 6
+What I learned:
+- Review was done during this week. A review for the quiz.The focus was about Nested Quantifiers.
+- Function
+ - There exist a function if for every x there is only one y.
+  - TYPES:
+   - A. One to one or Injunction
+    - Functions that has only one specific Y for every domain elements.
+   - B. ONTO or Surjection
+    - Each co-domain is assigned to a domain.
+   - C. Bijection
+    - Both One to one and ONTO.
+
+## WEEK 7
+--- NO CLASSES THE WHOLE WEEK ---
+
+## Week 8
+What I learned:
+- Algorithms
+ - It is a finite set of precise instruction.
+  - Precondition - describes the input
+  - Post Condition - describes what the output should satisfy
+  - Properties that Algorithm have:
+   - Input - values from specific set
+   - Output - solves a given problem
+   - Definiiteness - precised and defined steps
+   - Correctness - produces the correct output values
+   - Finiteness - produces the desired output values
+   - Effectiveness - performs the given steps 
+   - Generality - applicable to all problems of desired form.
+- Pseudocode
+ -  A high-level description of an algorithm that uses the structural conventions of a programming language, but is only for human reading.
+- Searching Algorithms
+ - locates an element in an ordered list.
+ - examples are: LINEAR and BINARY
+ 
+## Week 9
+What I learned: 
+- Sorting Algorithms
+ - organizes elements in increasing order.
+ - examples are: BUBBLE Sort (compares who's greater then swap), INSERTION Sort (Inserting elements according to its value)
+- Greedy Algorithm
+ - minimizes or maximizes the value of some parameters.
+ - Selects the best choice instead of considering all sequences.
+
+## Week 10
+What I learned:
+- Growth of Function
+ - defined as Big O Notation
+  - BIG O Notation - used to determine the upperbound of a functino.
+  - BIG Omega Notation (Big-Ω) - used to determine lowerbound of a function.
+  - BIG Theta Notation (Big-Θ) - used to determine both lower and upperbound.
+- Algorithm Time Complexity
+ -  expressed in terms of the number of operationsused by the algorithm when the input has a particular size
+
+## Week 11
+--- NO CLASSES BECAUSE OF HOLY WEEK ---
+
+## Week 12
+- Graph Theory
+ - Graphs are structures that contains vertices which are interconnected through the edges.
+ - Degree of a vertex is the number of connections in a vertex.
+- Euler Path
+ - a path that contains all edges but doesn't go back to the start. Must have exact 2 odd degree.
+- Euler Circuit
+ - simple circuit that passes through every edge present in the graph and goes back to the start without getting back through the same direction. Must have all degree in even.
+- Hamilton Path
+ - a path that passes through all the vertices without repitition.
+- Hamilton Circuit 
+ - a circuit that contains all the vertices and goes back to the starting vertix without repitition.
+- Matrices of Graphs
+- Isomorphisms in Graphs
+- Planar and Non-Planar Graphs
+- R = E - V + 2
+
+## Week 13
+**THE FINAL WEEK**
+- Elementary Subdivisions
+- Tree Graphs
+- Four-Colour Theorem
+- Languages
+- Gramar
+- Formal and Natural Languages
+- Syntax and Semantics
+- Finite-State Machines
+
+
+**THE END OF PORTFOLO OF LORENZO C. GARCIA EK**
+ 
+ 
+
+
